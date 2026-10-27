@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.4
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "proyecto equipo", "proyecto equipo\proyecto equipo.csproj", "{623BDBF1-14B2-402B-BBCA-F13121368B38}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{623BDBF1-14B2-402B-BBCA-F13121368B38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{623BDBF1-14B2-402B-BBCA-F13121368B38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{623BDBF1-14B2-402B-BBCA-F13121368B38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{623BDBF1-14B2-402B-BBCA-F13121368B38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal
