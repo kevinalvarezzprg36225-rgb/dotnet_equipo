@@ -35,5 +35,12 @@ namespace proyecto_equipo
 			f.Show();
 			this.Hide();
 		}
+		
+		void Button1Click(object sender, EventArgs e)
+		{
+			Form2 g = new Form2();
+			g.Show();
+			this.Hide();
+		}
 	}
 }
